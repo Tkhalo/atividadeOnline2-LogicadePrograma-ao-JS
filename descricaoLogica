@@ -1,0 +1,15 @@
+inserir a data do evento
+
+A data do evento é maior que a data de hoje? 
+Se sim, Permitir cadastro e inserir o nome do palestrante
+Se não, data inválida
+
+a idade do participante é maior ou igual a 18?
+Se sim, permitir o cadastro e inserir o nome do participante
+Se não, cadastro de participante inválido 
+
+listar participantes
+deseja cadastrar mais participantes (S/n)
+O numero de participantes é maior que 100?
+Se sim, limite excedido FIM
+Se não, cadastre outro participante
